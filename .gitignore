@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+._*
+~$*
+Thumbs.db
+*.log
+.env
+.env.*
+*.key
+*.cer
+*.req
+*.zip
+*.rar
